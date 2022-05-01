@@ -1,4 +1,4 @@
-# project2-Build-a-ML-Workflow-for-Scones-Unlimited-on-Amazon-SageMaker
+# Project2-Build-a-ML-Workflow-for-Scones-Unlimited-on-Amazon-SageMaker
 This project was created as the result of an activity I developed when I was attending to the course 'Developing your First ML Workflow' of Udacity's AWS Machine Learning Nanodegree program.
 
 The project use a sample dataset called CIFAR to simulate an image classification model. I deploy and monitor a machine learning workflow for Image Classification using AWS resources such as, sagemaker and boto3 SDKs, image-classification built-in algorithm, Lambda functions and Step Function Workflow, and SageMaker model monitor and endpoint. The CIFAR dataset is open source and can be downloaded at: https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz
